@@ -60,6 +60,7 @@ class User:
 
 
 user1 = User("Xhoni", "Toromeni")
+
 user2 = User("Endi", "mhvm")
 user3 = User("Klea", "hghv")
 
